@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://w.wallhaven.cc/full/wq/wallhaven-wqvrzx.png");
+}
+.container {
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin: auto;
+
+
+}
+img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    color: #b63c3c;
+}
+.bio-info {
+    margin: 20px 0;
+}
+.bio-info p {
+    margin: 10px 0;
+    color: #555;
+}
+.bio-info label {
+    font-weight: bold;
+}
+a{
+    position: relative;
+    left: 870px;
+    text-decoration: none;
+    font-size: bold;
+    color: white;
+    background-color: #29327e;
+    border: #a3aae7 2px solid;
+    padding: 18px 15px;
+    border-radius: 10px;
+}
